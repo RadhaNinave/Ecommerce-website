@@ -1,0 +1,24 @@
+.cartitem-main{
+    display: flex;
+    text-align: center;
+  }
+  .cartitem-img{
+     width: 40%;
+  }
+  .cartitem-price{
+     width: 30%;
+     padding-left: 15%;
+     padding-top: 10px;
+  }
+  .cartitem-button{
+      margin-left: 20%;
+     width: 30%;
+  }
+  .cartitem-img{
+      width: 80px;
+      border-radius: 8%;
+      margin-right: 20px;
+  }
+  .cartitem-quantity{
+      padding-right: 10px;
+  }
